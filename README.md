@@ -85,7 +85,6 @@ This is a Node.js and Express.js based API for managing products. The API allows
 
     ```bash
     git clone https://github.com/surajmendhe5573/remove-products
-    cd product-management-api
     ```
 
 2. Install the dependencies:
